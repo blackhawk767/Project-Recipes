@@ -1,0 +1,26 @@
+body{
+    background-color: #ba8c63;
+}
+
+#Odin-Recipes-Title,
+.recipe-links{
+    font-family: 'Times New Roman', Georgia, Times, serif;
+    background-color: #f3ddbc;
+}
+
+#Odin-Recipes-Title{
+    text-align: center;
+    color: maroon;
+
+}
+
+#digital-plate{
+    height: 200px;
+    width: auto;
+}
+
+.recipe-links{
+    color: rgb(53, 56, 40);
+    width: 150px;
+    height: auto;
+}
