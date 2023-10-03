@@ -2,25 +2,59 @@ body{
     background-color: #ba8c63;
 }
 
-#Odin-Recipes-Title,
-.recipe-links{
+#Odin-Recipes-Title{
+    text-align: center;
+    color: maroon;
+    font-family: 'Times New Roman', Georgia, Times, serif;
+    background-color: #f3ddbc;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 12px;
+
+}
+
+.recipe-link-1{
+    display: inline-block;
+    margin-left: 195px;
+    text-align: center;
+    padding: 4px;
+    color: rgb(53, 56, 40);
+    width: 150px;
+    height: auto;
+    border: 5px solid rgb(105, 21, 21);
     font-family: 'Times New Roman', Georgia, Times, serif;
     background-color: #f3ddbc;
 }
 
-#Odin-Recipes-Title{
+.recipe-link-2{
+    display: inline-block;
+    margin-left: 195px;
     text-align: center;
-    color: maroon;
-
-}
-
-#digital-plate{
-    height: 200px;
-    width: auto;
-}
-
-.recipe-links{
+    padding: 4px;
     color: rgb(53, 56, 40);
     width: 150px;
     height: auto;
+    border: 5px solid rgb(105, 21, 21);
+    font-family: 'Times New Roman', Georgia, Times, serif;
+    background-color: #f3ddbc;
+}
+
+.recipe-link-3{
+    display: inline-block;
+    margin-left: 195px;
+    text-align: center;
+    padding: 4px;
+    color: rgb(53, 56, 40);
+    width: 150px;
+    height: auto;
+    border: 5px solid rgb(105, 21, 21);
+    font-family: 'Times New Roman', Georgia, Times, serif;
+    background-color: #f3ddbc;
+}
+
+.digital-sushi{
+    display: block;
+    height: 200px;
+    width: auto;
+    margin: auto;
 }
